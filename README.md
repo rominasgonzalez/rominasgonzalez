@@ -10,6 +10,8 @@
 - 🪼 Ask me about anything related to games, i love the topic! You can also check my [account](https://www.instagram.com/romy.gonzalezz/)
   
 <br/>  
+
+
 ## My skill set 🥏
 <table><tr><td valign="top" width="33%">
 
