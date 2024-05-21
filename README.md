@@ -11,7 +11,7 @@
   
 <br/>  
 ## My skill set 🥏
-
+<table><tr><td valign="top" width="33%">
 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -24,7 +24,6 @@
 
 </td><td valign="top" width="33%">
 
-
 <div align="center">  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
@@ -35,8 +34,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 
 <div align="center">  
@@ -51,11 +48,6 @@
 </td></tr></table>  
 
 <br/>  
-
-
-
-
-
 
 
 ## Let's get in touch 🩵
